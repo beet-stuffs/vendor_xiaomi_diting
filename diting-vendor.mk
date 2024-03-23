@@ -887,6 +887,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/diting/proprietary/vendor/lib64/camera/com.qti.sensormodule.diting_semco_s5khp1_wide.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.diting_semco_s5khp1_wide.bin \
     vendor/xiaomi/diting/proprietary/vendor/lib64/camera/com.qti.sensormodule.diting_sunny_imx596_front.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.diting_sunny_imx596_front.bin \
     vendor/xiaomi/diting/proprietary/vendor/lib64/camera/com.qti.sensormodule.diting_sunny_s5k4h7_ultra.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.diting_sunny_s5k4h7_ultra.bin \
+    vendor/xiaomi/diting/proprietary/vendor/lib64/camera/com.qti.sensormodule.diting_sunny_s5khm6_wide.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.diting_sunny_s5khm6_wide.bin \
     vendor/xiaomi/diting/proprietary/vendor/lib64/camera/com.qti.tuned.default.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.default.bin \
     vendor/xiaomi/diting/proprietary/vendor/lib64/camera/com.qti.tuned.diting_ofilm_gc02m1_macro.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.diting_ofilm_gc02m1_macro.bin \
     vendor/xiaomi/diting/proprietary/vendor/lib64/camera/com.qti.tuned.diting_semco_s5khp1_wide.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.diting_semco_s5khp1_wide.bin \
